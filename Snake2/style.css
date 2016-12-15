@@ -1,3 +1,8 @@
+h1 {
+    width: 115px;
+    margin: auto;
+    padding-top: 5%;
+}
 .block {
     background: aquamarine;
     height: 500px;
